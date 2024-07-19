@@ -4,4 +4,5 @@ El objetivo del presente repositorio es mostrar archivos con funciones básicas 
 
 ## Fundamentos
 
-1. Cuenta con un "script" con los fundamentos para inciar en r
+1. **Fundamentos** Es un "script" con los fundamentos para inciar en r
+2. **instalar_y_usar_paquetes** Es un "scipt" que cuenta como usar instalar y usar paquetes
