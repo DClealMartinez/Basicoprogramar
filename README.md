@@ -10,7 +10,8 @@ Bienvenidos al repositorio de funciones básicas para programación. El objetivo
 1. **Fundamentos** Es un "script" con los fundamentos para inciar en r
 2. **instalar_y_usar_paquetes** Es un "scipt" que cuenta como usar instalar y usar paquetes
 
-# Nota 
+🔔 
+>**Nota Aclaratoria:**
 Al igual que el repositorio de "Portaforlio" https://github.com/DClealMartinez/Portafolio este se encuentra en proceso. Me gustaria que al finalizar este se un producto del que todos se pueden beneficiar por lo que agradesco cualquier sugerencias, y agradesco su difución.
 
 # Repository: "Basic for Programming"
@@ -22,5 +23,6 @@ Welcome to the Basic Functions for Programming repository. The aim of this repos
 2.  **Fundamentos** A script with the basics to get started in R.
 2. **instalar_y_usar_paquetes**   A script detailing how to install and use packages
 
+🔔
 >**Note:**
 Just like the "Portaforlio" repository at https://github.com/DClealMartinez/Portafolio, this one is still in progress. I hope that when it is completed, it will be a product from which everyone can benefit, so I appreciate any suggestions and thank you for spreading the word.
